@@ -1,0 +1,8 @@
+{
+    "Lua.diagnostics.globals": [
+        "term",
+        "peripheral",
+        "parallel",
+        "textutils"
+    ]
+}
