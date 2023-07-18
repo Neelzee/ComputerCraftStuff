@@ -3,6 +3,7 @@
         "term",
         "peripheral",
         "parallel",
-        "textutils"
+        "textutils",
+        "sleep"
     ]
 }
