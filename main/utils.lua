@@ -32,7 +32,7 @@ function methods.HandleEvents(events)
         do
             if e == event
             then
-                coroutine.yield(event, side, channel, replyChannel, msg, distance)
+                coroutine.yield(200, event, side, channel, replyChannel, msg, distance)
             end
         end
     end
